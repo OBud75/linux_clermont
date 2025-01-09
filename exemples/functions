@@ -1,0 +1,17 @@
+get_file_name () {
+	echo File name is $0;
+	echo Argument : $1;
+}
+
+show_params () {
+        echo File name: $0;
+        echo Param 1: $1;
+        echo Param 2: $2;
+}
+
+print_age() {
+	$1;
+	# date -> keep only current year
+	echo current_year - $1; 
+}
+
