@@ -1,1 +1,2 @@
 alias maketestdir="mkdir -p test"
+alias lla="ls -la"
