@@ -1,0 +1,19 @@
+Exploring how computers work:
+        https://youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&si=qlKNkUKPXxHM2cNZ
+        https://www.nand2tetris.org/
+
+CS50 (Intro Computer Sciences):
+        https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
+
+Tutoriels
+	https://doc.ubuntu-fr.org/tutoriel/console_ligne_de_commande
+	https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base
+
+Documentation
+	https://doc.ubuntu-fr.org/console
+	https://doc.ubuntu-fr.org/terminal
+	https://doc.ubuntu-fr.org/commande_shell
+	https://doc.ubuntu-fr.org/permissions
+
+Syscall table
+	https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
