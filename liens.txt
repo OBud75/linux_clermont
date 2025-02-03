@@ -5,15 +5,54 @@ Exploring how computers work:
 CS50 (Intro Computer Sciences):
         https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
 
+
 Tutoriels
 	https://doc.ubuntu-fr.org/tutoriel/console_ligne_de_commande
 	https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base
+
+	https://doc.ubuntu-fr.org/tutoriel/gestion_utilisateurs_et_groupes_en_ligne_de_commande
+	https://doc.ubuntu-fr.org/tutoriel/effectuer_des_taches_en_super_utilisateur
+
+	https://doc.ubuntu-fr.org/tutoriel/comment_sauver_et_restaurer_un_fichier
+	https://doc.ubuntu-fr.org/tutoriel/donnees_stockees_dans_un_systeme_de_fichiers_zfs
+
+	https://doc.ubuntu-fr.org/tutoriel/tout_savoir_sur_les_modules_linux
+	https://doc.ubuntu-fr.org/tutoriel/reverse_ssh
+
 
 Documentation
 	https://doc.ubuntu-fr.org/console
 	https://doc.ubuntu-fr.org/terminal
 	https://doc.ubuntu-fr.org/commande_shell
+	https://doc.ubuntu-fr.org/editeur_de_texte
+	https://doc.ubuntu-fr.org/vim
+	https://doc.ubuntu-fr.org/ide
+	https://doc.ubuntu-fr.org/visual_studio_code
+
+	https://doc.ubuntu-fr.org/systeme
+	https://doc.ubuntu-fr.org/utilisateur
+	https://doc.ubuntu-fr.org/utilisateurs_et_groupes
+	https://doc.ubuntu-fr.org/droits
 	https://doc.ubuntu-fr.org/permissions
+	https://doc.ubuntu-fr.org/users-admin
+	https://doc.ubuntu-fr.org/sudo
+	https://doc.ubuntu-fr.org/sudoers
+
+	https://doc.ubuntu-fr.org/services
+	https://doc.ubuntu-fr.org/systemd
+	https://doc.ubuntu-fr.org/creer_un_service_avec_systemd
+	https://doc.ubuntu-fr.org/cron
+	https://doc.ubuntu-fr.org/mount_fstab
+	https://doc.ubuntu-fr.org/mounter_un_disque_avec_systemd.automount
+
+	https://doc.ubuntu-fr.org/network-manager
+	https://doc.ubuntu-fr.org/ssh
+	https://doc.ubuntu-fr.org/configurer_mail
+
+	https://doc.ubuntu-fr.org/securite
+	https://doc.ubuntu-fr.org/ufw
+	https://doc.ubuntu-fr.org/gnupg
+
 
 Syscall table
 	https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
