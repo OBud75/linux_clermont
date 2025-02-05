@@ -8,6 +8,10 @@ Gnu-Linux
         https://docs.kernel.org/
 
 
+Exercices
+	https://linuxjourney.com/
+
+
 Ubuntu
 	https://ubuntu.com/
 	https://help.ubuntu.com/
