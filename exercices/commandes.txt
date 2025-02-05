@@ -1,0 +1,22 @@
+Pour les 2 exercices, mettre les instructions dans des fichiers .sh avec le résultat des commandes
+en commentaires. (Vous pouvez tester les commandes directement dans le terminal puis en faire un script)
+
+Sous votre répertoire d’accueil, créez un répertoire linux
+Dans le répertoire linux, créez un répertoire TP01
+Vérifiez que les répertoires ont bien été créés
+Dans le répertoire TP01, copiez le fichier /etc/passwd
+Affichez le contenu de ce fichier
+Effacez cette copie.
+Affichez “bonjour” à l’écran.
+Testez les commandes id et date
+
+Placez vous dans le répertoire /etc et copiez le fichier fstab dans votre répertoire TP01
+Revenez dans TP01 et renommez fstab en table
+Toujours dans TP01, créez un répertoire systeme
+Restez dans le répertoire TP01 et déplacez table dans systeme
+Toujours à partir du répertoire TP01, faites une copie de table nommée table1 dans votre répertoire personnel
+Affichez le contenu du répertoire courant
+Affichez l’inode de table1
+Renommez table1 en table2
+Copiez table2 dans le répertoire TP01 en le renommant table3
+Supprimez le répertoire TP01.
