@@ -1,5 +1,4 @@
-Pour les 2 exercices, mettre les instructions dans des fichiers .sh avec le résultat des commandes
-en commentaires. (Vous pouvez tester les commandes directement dans le terminal puis en faire un script)
+Pour les 2 exercices, mettre les instructions dans des fichiers .sh  (Vous pouvez tester les commandes directement dans le terminal puis en faire un script)
 
 Sous votre répertoire d’accueil, créez un répertoire linux
 Dans le répertoire linux, créez un répertoire TP01

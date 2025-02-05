@@ -12,6 +12,7 @@ struct Student {
 typedef struct {
 	int birth_year;
 	char* name;
+	char[64] last_name;
 } Person;
 
 int main() {
@@ -26,8 +27,9 @@ int main() {
 	// Créer un array "people" composé de 3 objects de type "Person"
 	Person people[3];
 	// Initialiser directement les 'attributs' des 3 personnes:
-	// {2000, "toto"}, {1990, "titi"}, {1995, "nana"}
-
+	// {2000, "toto"}, {1990, "un nom arrrrrrrchi long"}, {1995, "un nom tres long"}
+	people[0].birh_year = 2000;
+	people[0].name = "toto";
 	// Afficher les adresses mémoire de chaque personne de l'array people
 }
 
