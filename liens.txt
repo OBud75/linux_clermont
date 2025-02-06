@@ -12,7 +12,6 @@ Cours avec exercices
 	https://linuxjourney.com/
 	https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux
 	https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux
-
 	https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services
 	https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux
 
