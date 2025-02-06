@@ -1,0 +1,61 @@
+Ondo US Dollar Yield Token : Ondo Finance
+OpenEden TBILL : Hill Lights International Limited
+Franklin OnChain U.S. Government Money Fund : Franklin Advisers
+BlackRock USD Institutional Digital Liquidity Fund : BlackRock
+BlackRock ICS Euro Government Liquidity Fund : BlackRock
+Draggable Aktionariat AG Shares : Aktionariat
+Spiko Euro : Twenty First Capital
+Spiko Dollar : Twenty First Capital
+Moreliquid Money Market Fund : Moreliquid Management
+Arjan Capital : Arjan Capital
+Fluna : Fluna
+MicroStrategy Note : Sicos Securities
+Aquarius Alternative High Yield Debt Fund : Sicos Securities
+Mikro Kapital Alternative : Mikro Kapital
+Ondo Short-Term US Government Treasuries : Ondo I LP
+New Silver Series 3 : New Silver
+Monetalis Clydesdale : James Asset (PTC) Limited
+BlockTower Andromeda : Taco Foundation
+Superstate Short Duration US Government Securities Fund : Superstate
+Cogito TFUND : Cogito
+USTY Yieldteq : Yieldteq
+Hashnote US Yield Coin : Hashnote
+NVIDIA Corp (Swarm) : Swarm
+Coinbase Global Inc (Swarm) : Swarm
+Gamestop Corporation (Swarm) : Swarm
+Intel Corp (Swarm) : Swarm
+iShares $ Treasury Bond 1-3yr UCITS ETF (Swarm) : Swarm
+Microsoft Corporation (Swarm) : Swarm
+Blackrock Inc (Swarm) : Swarm
+Tesla Inc (Swarm) : Swarm
+Apple Inc. (Swarm) : Swarm
+Microstrategy Inc (Swarm) : Swarm
+Coupang Inc (Swarm) : Swarm
+iShares $ Treasury Bond 0-1yr UCITS ETF (Swarm) : Swarm
+Société Générale Green Positive Impact Senior Preferred Notes : Société Générale
+tGOLD : Aurus
+Operal AG Shares : Operal
+abrdn Liquidity Fund (Lux) - US Dollar Fund : abrdn
+Boss Info AG : Boss Info
+PensionDynamics : PensionDynamics
+ArtLeasing Shares : Art Leasing & Invest
+Alan Frei : Alan Frei
+Backed Coinbase Global (bCOIN) : Backed Finance
+Backed CSPX Core S&P 500 (bCSPX) : Backed Finance
+Backed ERNX € Ultrashort Bond : Backed Finance
+Backed HIGH € High Yield Corp Bond : Backed Finance
+Backed GOVIES 0-6 Months Euro Investment Grade (bC3M) : Backed Finance
+Backed ZPR1 $ 1-3 Month T-Bill : Backed Finance
+vidby Shares : vidby
+Carnault AG Shares : Carnault
+EHC Kloten : EHC Kloten
+Axelra Tech Venture Building Shares : Axelra Tech Venture
+Twiliner AG Shares : Twiliner
+1-month B2C2 Corporate Bond : B2C2
+Anemoy Liquid Treasury Fund 1 : Anemoy
+Zavouny : feEHC Kloten
+Zbvouny : feEHC Kloten
+BlockTower Series 4 : BlockTower
+Maple Cash Management USDC Maple Direct : Maple Direct (Cash Management)
+Maple Direct High Yield Corporate Loan - USDC : Maple Direct (Corporate Loan)
+Maple Direct High Yield Corporate Loan - WETH : Maple Direct (Corporate Loan)
