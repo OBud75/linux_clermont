@@ -1,0 +1,44 @@
+62|00000a
+13|Aktionariat
+43|Alan Frei
+6|Anemoy
+16|Arjan Capital
+42|Art Leasing & Invest
+3|Aurus
+57|Axelra Tech Venture
+59|B2C2
+5|Backed Finance
+12|BlackRock
+7|BlockTower
+40|Boss Info
+55|Carnault
+24|Cogito
+56|EHC Kloten
+17|Fluna
+11|Franklin Advisers
+26|Hashnote
+10|Hill Lights International Limited
+21|James Asset (PTC) Limited
+8|Maple Direct (Cash Management)
+9|Maple Direct (Corporate Loan)
+19|Mikro Kapital
+15|Moreliquid Management
+20|New Silver
+1|Ondo Finance
+2|Ondo I LP
+39|Operal
+41|PensionDynamics
+18|Sicos Securities
+28|Société Générale
+23|Superstate
+27|Swarm
+22|Taco Foundation
+14|Twenty First Capital
+58|Twiliner
+25|Yieldteq
+65|Zissuer
+66|ZzIssuer
+4|abrdn
+61|azzp000
+60|feEHC Kloten
+54|vidby

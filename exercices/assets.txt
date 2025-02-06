@@ -1,0 +1,61 @@
+1|Ondo US Dollar Yield Token|1
+2|Ondo Short-Term US Government Treasuries|2
+3|tGOLD|3
+4|abrdn Liquidity Fund (Lux) - US Dollar Fund|4
+5|Anemoy Liquid Treasury Fund 1|6
+6|BlockTower Series 4|7
+7|Maple Cash Management USDC Maple Direct|8
+8|Maple Direct High Yield Corporate Loan - USDC|9
+9|Maple Direct High Yield Corporate Loan - WETH|9
+10|OpenEden TBILL|10
+11|Franklin OnChain U.S. Government Money Fund|11
+13|Backed Coinbase Global (bCOIN)|5
+14|BlackRock USD Institutional Digital Liquidity Fund|12
+15|Draggable Aktionariat AG Shares|13
+16|BlackRock ICS Euro Government Liquidity Fund|12
+17|Backed CSPX Core S&P 500 (bCSPX)|5
+18|Spiko Euro|14
+19|Spiko Dollar|14
+20|Moreliquid Money Market Fund|15
+21|Arjan Capital|16
+22|Fluna|17
+23|MicroStrategy Note|18
+24|Aquarius Alternative High Yield Debt Fund|18
+25|Mikro Kapital Alternative|19
+26|Backed ERNX € Ultrashort Bond|5
+27|Backed HIGH € High Yield Corp Bond|5
+28|Backed GOVIES 0-6 Months Euro Investment Grade (bC3M)|5
+29|Backed ZPR1 $ 1-3 Month T-Bill|5
+30|New Silver Series 3|20
+31|Monetalis Clydesdale|21
+32|BlockTower Andromeda|22
+33|Superstate Short Duration US Government Securities Fund|23
+34|Cogito TFUND|24
+35|USTY Yieldteq|25
+36|Hashnote US Yield Coin|26
+61|NVIDIA Corp (Swarm)|27
+62|Coinbase Global Inc (Swarm)|27
+63|Gamestop Corporation (Swarm)|27
+64|Intel Corp (Swarm)|27
+65|iShares $ Treasury Bond 1-3yr UCITS ETF (Swarm)|27
+66|Microsoft Corporation (Swarm)|27
+67|Blackrock Inc (Swarm)|27
+68|Tesla Inc (Swarm)|27
+69|Apple Inc. (Swarm)|27
+70|Microstrategy Inc (Swarm)|27
+71|Coupang Inc (Swarm)|27
+72|iShares $ Treasury Bond 0-1yr UCITS ETF (Swarm)|27
+73|Société Générale Green Positive Impact Senior Preferred Notes|28
+84|Operal AG Shares|39
+85|Boss Info AG|40
+86|PensionDynamics|41
+87|ArtLeasing Shares|42
+88|Alan Frei|43
+99|vidby Shares|54
+100|Carnault AG Shares|55
+101|EHC Kloten|56
+102|Axelra Tech Venture Building Shares|57
+103|Twiliner AG Shares|58
+104|1-month B2C2 Corporate Bond|59
+107|Zavouny|60
+108|Zbvouny|60
