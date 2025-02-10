@@ -5,10 +5,12 @@ LOGFILE="$DIR/time_logs.txt"
 
 if [ ! -d "$DIR" ]; then
 	mkdir -p "$DIR"
+	logger -s "$DIR created"
 fi
 
 if [ ! -f "$LOGFILE" ]; then
 	touch "$LOGFILE"
+	logger -s "$LOGFILE created"
 fi
 
 while true; do

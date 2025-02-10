@@ -65,10 +65,16 @@ Ubuntu - Documentations
 	https://doc.ubuntu-fr.org/sudo
 	https://doc.ubuntu-fr.org/sudoers
 
+	https://doc.ubuntu-fr.org/apt
+	https://doc.ubuntu-fr.org/apt-get
+	https://doc.ubuntu-fr.org/apt-cli
+	https://doc.ubuntu-fr.org/gestionnaire_de_mises_a_jour
+        https://doc.ubuntu-fr.org/nettoyer_ubuntu
+
 	https://doc.ubuntu-fr.org/services
-        https://doc.ubuntu-fr.org/gestionnaire_de_mises_a_jour
 	https://doc.ubuntu-fr.org/systemd
 	https://doc.ubuntu-fr.org/creer_un_service_avec_systemd
+	https://doc.ubuntu-fr.org/logrotate
 	https://doc.ubuntu-fr.org/cron
 	https://doc.ubuntu-fr.org/mount_fstab
 	https://doc.ubuntu-fr.org/mounter_un_disque_avec_systemd.automount
@@ -100,6 +106,8 @@ CS50 (Intro Computer Sciences):
 	https://cs50.harvard.edu/x/2025/psets/
         https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
 
+Visual Debugger:
+	https://pythontutor.com/
 
 Syscall table
         https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
