@@ -1,6 +1,8 @@
 Exploring how computers work:
         https://youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&si=qlKNkUKPXxHM2cNZ
         https://www.nand2tetris.org/
+	https://fr.wikipedia.org/wiki/Alg%C3%A8bre_de_Boole_(logique)
+	https://fr.wikipedia.org/wiki/Lois_de_De_Morgan
 
 
 Gnu-Linux
@@ -64,6 +66,7 @@ Ubuntu - Documentations
 	https://doc.ubuntu-fr.org/users-admin
 	https://doc.ubuntu-fr.org/sudo
 	https://doc.ubuntu-fr.org/sudoers
+	https://doc.ubuntu-fr.org/variables_d_environnement
 
 	https://doc.ubuntu-fr.org/apt
 	https://doc.ubuntu-fr.org/apt-get
@@ -111,3 +114,33 @@ Visual Debugger:
 
 Syscall table
         https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
+
+Dev:
+	https://www.youtube.com/@CodeAesthetic
+	https://peps.python.org/pep-0008/
+
+3 hardest things in CS:
+	- Naming things
+	- Cache invalidation
+	- N+1 errors
+
+Zen of python
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
