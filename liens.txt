@@ -8,6 +8,8 @@ Exploring how computers work:
 Gnu-Linux
         https://www.gnu.org/
         https://docs.kernel.org/
+	https://gnome.org/https://guide.ubuntu-fr.org/
+	https://apps.gnome.org/
 
 
 Cours avec exercices
@@ -23,6 +25,7 @@ Ubuntu
 	https://help.ubuntu.com/
 	https://manpages.ubuntu.com/
 	https://ubuntu.com/server/docs/
+	https://guide.ubuntu-fr.org/
 
 
 Ubuntu - Tutoriels
@@ -116,8 +119,19 @@ Syscall table
         https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 
 Dev:
+	L'IA n'existe pas (Luc Julia) https://youtu.be/yuDBSbng_8o?si=0olR7cCnEohElaeB
 	https://www.youtube.com/@CodeAesthetic
 	https://peps.python.org/pep-0008/
+	Oncle Bob :
+		Clean code
+		Clean architecture 
+		https://blog.cleancoder.com/
+		https://fr.wikipedihttps://www.mozilla.org/fr/a.org/wiki/UML_(informatique)
+		https://en.wikipedia.org/wiki/Software_design_pattern
+
+Web:
+	https://www.mozilla.org/fr/
+	https://developer.mozilla.org/fr/
 
 3 hardest things in CS:
 	- Naming things

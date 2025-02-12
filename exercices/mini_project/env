@@ -12,5 +12,6 @@ export LOGGER="$BASE_DIR/logging/$ENV"
 if [[ ! -d "venv" ]]; then
 	python3 -m venv venv
 fi
-. $BASE_DIR/venv/bin/activate
+
+. venv/bin/activate
 pip install -r requirements.txt
