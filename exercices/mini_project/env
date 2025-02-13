@@ -9,9 +9,10 @@ export LOGGER="$BASE_DIR/logging/$ENV"
 
 . $CONFIG_DIR/$ENV
 
-if [[ ! -d "venv" ]]; then
-	python3 -m venv venv
+if [[ ! -d "$BASE_DIR/venv" ]]; then
+	python3 -m venv $BASE_DIR/venv
 fi
 
-. venv/bin/activate
+. $BASE_DIR/venv/bin/activate
+pip install --upgrade pip
 pip install -r requirements.txt

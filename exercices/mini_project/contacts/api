@@ -27,8 +27,8 @@ retrieve() {
 }
 
 update() {
-	delete
-	create
+	delete id
+	create id
 }
 
 delete() {
