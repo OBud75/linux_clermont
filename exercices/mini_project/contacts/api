@@ -16,7 +16,11 @@ create() {
 	read -p "Phone number : " phone_number
 	read -p "Email address : " email
 
-	local id=$(get_next_id)
+	 if [ -z "$1" ]; then
+		local id=$(get_next_id)
+        else
+		id="$1"
+        fi
 	echo "$id $SEP $first_name $SEP $last_name $SEP $birth_date $SEP $phone_number $SEP $email" >> $DB_FILE
 	echo "$first_name $last_name with id $id"
 }
@@ -27,15 +31,20 @@ retrieve() {
 }
 
 update() {
-	delete id
-	create id
+	read -p "Id : " id
+	delete $id
+	create $id
 }
 
 delete() {
-	read -p "Id : " id
+	if [ -z "$1" ]; then
+		read -p "Id : " id
+	else
+		id="$1"
+	fi
 	sed -i "/^$id $SEP/d" "$DB_FILE"
 }
 
 list() {
-	cat $DB_FILE
+	cat $DB_FILE | sort -n
 }

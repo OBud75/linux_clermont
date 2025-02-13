@@ -1,0 +1,28 @@
+validate() {
+	if [[ $1 =~ $2 ]]; then
+		return 0
+	else
+		return 1
+	fi
+}
+
+validate_name() {
+	validate "$1" "^[a-zA-Zà-ÿÀ-Ÿ' -]+$"
+	return $?
+}
+
+validate_phone_number() {
+	validate "$1" "^\+?[0-9]{1,4}?[ \-\.]?(\(?\d{1,3}\)?[ \-\.]?)?\d{1,4}[ \-\.]?\d{1,4}[ \-\.]?\d{1,9}$"
+	return $?
+}
+
+validate_birth_year() {
+	validate "$1" "^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"
+	return $?
+}
+
+validate_email() {
+	validate "$1" "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
+	return $?
+}
+
