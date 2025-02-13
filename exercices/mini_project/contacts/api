@@ -1,5 +1,6 @@
 SEP=";"
-. ./validators
+. $BASE_DIR/contacts/validators
+
 
 get_next_id() {
     last_id=$(cat $DB_FILE | awk -F ';' '{print $1}' | sort -n | tail -1)
@@ -14,16 +15,39 @@ create() {
 	read -p "First name : " first_name
 	validate_name $first_name
 	if [[ ! $? == 0 ]]; then
-		echo "First name not valid"
+		echo "First name $first_name not valid"
 		return 1
 	fi
 
 	read -p "Last name : " last_name
-	read -p "Birth date (YYYY-MM-DD): " birth_date
-	read -p "Phone number : " phone_number
-	read -p "Email address : " email
+	validate_name $last_name
+        if [[ ! $? == 0 ]]; then
+                echo "Last name $last_name not valid"
+                return 1
+        fi
 
-	 if [ -z "$1" ]; then
+	read -p "Birth date (YYYY-MM-DD): " birth_date
+	validate_birth_date $birth_date
+	if [[ ! $? == 0 ]]; then
+                echo "Birth date $birth_date not valid"
+                return 1
+        fi
+
+	read -p "Phone number : " phone_number
+	validate_phone_number $phone_number
+	if [[ ! $? == 0 ]]; then
+                echo "Phone number $phone_number not valid"
+                return 1
+        fi
+
+	read -p "Email address : " email
+	validate_email $email
+        if [[ ! $? == 0 ]]; then
+                echo "Email $email not valid"
+                return 1
+        fi
+
+	if [ -z "$1" ]; then
 		local id=$(get_next_id)
         else
 		id="$1"

@@ -7,17 +7,17 @@ validate() {
 }
 
 validate_name() {
-	validate "$1" "^[a-zA-Zà-ÿÀ-Ÿ' -]+$"
+	validate "$1" "^[[:alpha:][:space:]'-]+$"
 	return $?
 }
 
 validate_phone_number() {
-	validate "$1" "^\+?[0-9]{1,4}?[ \-\.]?(\(?\d{1,3}\)?[ \-\.]?)?\d{1,4}[ \-\.]?\d{1,4}[ \-\.]?\d{1,9}$"
+	validate "$1" "^\+?[0-9]{7,15}$"
 	return $?
 }
 
-validate_birth_year() {
-	validate "$1" "^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"
+validate_birth_date() {
+	validate "$1" "^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"
 	return $?
 }
 
