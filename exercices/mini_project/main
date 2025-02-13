@@ -18,9 +18,23 @@ menu() {
 	done
 }
 
+handle_args() {
+	echo ""
+	# case $1
+		# create)
+		# retrieve)
+		# update)
+		# delete)
+		# list)
+		# *) echo Invalid argument, choices are "create", "retrieve", "update", "delete", list" && exit 1
+	# esac
+}
+
 main() {
 	if [[ $1 == 0 ]]; then
 		menu
+	else
+		handle_args $@
 	fi
 }
 

@@ -1,4 +1,5 @@
 SEP=";"
+. ./validators
 
 get_next_id() {
     last_id=$(cat $DB_FILE | awk -F ';' '{print $1}' | sort -n | tail -1)
@@ -11,6 +12,12 @@ get_next_id() {
 
 create() {
 	read -p "First name : " first_name
+	validate_name $first_name
+	if [[ ! $? == 0 ]]; then
+		echo "First name not valid"
+		return 1
+	fi
+
 	read -p "Last name : " last_name
 	read -p "Birth date (YYYY-MM-DD): " birth_date
 	read -p "Phone number : " phone_number
