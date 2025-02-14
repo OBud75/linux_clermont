@@ -6,13 +6,17 @@ Exploring how computers work:
 
 
 Unix
-	https://en.wikipedia.org/wiki/Unix-like
-	Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | Lex Fridman Podcast :
-		https://youtu.be/O9upVbGSBFo?si=4iImVjR-OW1DImj9
-	AT&T Archives: The UNIX Operating System:
-		https://youtu.be/tc4ROCJYbm0?si=qqe3y9SrxSr7Yc4H
-	https://fr.wikipedia.org/wiki/Berkeley_Software_Distribution
-	https://fr.wikipedia.org/wiki/Noyau_de_syst%C3%A8me_d%27exploitation
+	https://fr.wikipedia.org/wiki/AT%26T
+	https://fr.wikipedia.org/wiki/Laboratoires_Bell
+	https://en.wikipedia.org/wiki/Sun_Microsystems
+        https://fr.wikipedia.org/wiki/Berkeley_Software_Distribution
+        https://fr.wikipedia.org/wiki/Noyau_de_syst%C3%A8me_d%27exploitation
+
+        https://en.wikipedia.org/wiki/Unix-like
+        Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | Lex Fridman Podcast :
+                https://youtu.be/O9upVbGSBFo?si=4iImVjR-OW1DImj9
+        AT&T Archives: The UNIX Operating System:
+                https://youtu.be/tc4ROCJYbm0?si=qqe3y9SrxSr7Yc4H
 
 
 GNU
