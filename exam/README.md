@@ -56,7 +56,7 @@ ___
 
 7. Cron
     - Quelle est la commande pour lister les taches cron ?
-    - Créer une tache cron qui lance le script "owned_by_toto" avec l'utilisateur Toto à 1h30 du matin, tous les mercredis du mois.
+    - Comment créer une tache cron qui lance le script "owned_by_toto" avec l'utilisateur Toto à 1h30 du matin, tous les mercredis du mois.
     - Expliquez brièvement à quoi servent les dossiers cron.weekly, cron.hourly et cron.monthly
 
 8. Logs
