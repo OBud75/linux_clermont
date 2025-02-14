@@ -68,6 +68,16 @@ ___
 A rendre d'ici début Mars, prennez le temps de bien faire je ne suis pas au jour près. (En réalité tous les projets informatiques sont délivrés en retard.)
 Vous pouvez rendre autant de projets que vous le souhaitez.
 
+1. Le mini projet de contacts commencé en cours, libre à vous d'ajouter des fonctionnalitées comme par exemple la partie avec la gestion des arguments.
+
+2. Un petit programme qui compte les points aux fléchettes :
+    - Demande le nombre de joueurs et leurs noms.
+    - Demande le mode de jeux (commencez par les règles du 301).
+    - A chaque tour, on entre le score du joueurs.
+    - Quand un joueur arrive à 0, affichez qu'il a gagné
+    - S'il reste 10 points à mettre à un joueur mais qu'il en met plus que 10, il reste à 10
+    - Amusez vous à enregistrer le nombre de parties gagnées, le nombre de tours necessaires ou autres dans un fichier texte.
+
 ___
 
 ### Tips
