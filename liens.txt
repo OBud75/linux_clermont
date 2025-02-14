@@ -11,6 +11,14 @@ Unix
 		https://youtu.be/O9upVbGSBFo?si=4iImVjR-OW1DImj9
 	AT&T Archives: The UNIX Operating System:
 		https://youtu.be/tc4ROCJYbm0?si=qqe3y9SrxSr7Yc4H
+	https://fr.wikipedia.org/wiki/Berkeley_Software_Distribution
+	https://fr.wikipedia.org/wiki/Noyau_de_syst%C3%A8me_d%27exploitation
+
+
+GNU
+	https://fr.wikipedia.org/wiki/Richard_Stallman
+	https://fr.wikipedia.org/wiki/GNU
+	https://wiki.crans.org/InstallParty/AffichesDePromotion?action=AttachFile&do=get&target=affiche-gnu.pdf	
 
 
 Gnu-Linux
