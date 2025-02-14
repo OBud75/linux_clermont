@@ -47,7 +47,7 @@ ___
 5. Environnement
     - Créer un dossier "billard"
     - L'utilisateur doit pouvoir choisir les règles avec une variable d'environnement "RULES" : les choix sont "8_balls", "9_balls", "pool" et "snooker".
-    - Lorsque l'utilisateur change la variable "RULES", affichez un message avec le type de partie choisie.
+    - Lorsque l'utilisateur change la variable "RULES" puis réactive l'environnement avec la commande "source ./env", affichez un message avec le type de partie choisie.
 
 6. Systemctl
     - Quelle est la commande pour prendre en compte les changements dans la configuration des services ?
