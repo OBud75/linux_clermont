@@ -61,7 +61,8 @@ ___
 
 8. Logs
     - Comment limiter la taille des fichiers de log du journal (journalctl) à 200Mo ?
-    - Comment configurer les logs de l'application "nginx" (situés dans /var/log/nginx.log) pour que des rotations soient effectuées tous les mois en conserver les 12 derniers mois de logs, compressant les plus ancients, et en créant un nouveau fichier avec un mod "644 root root"
+    - Comment configurer les logs de l'application "nginx" (situés dans /var/log/nginx.log) pour que des rotations soient effectuées tous les mois en conservant les 12 derniers mois de logs, compressant les plus ancients, et en créant un nouveau fichier avec un mod "644 root root"
+    - Dans la pratique, pourquoi créer des règles de rotation de log ?
 
 
 ## Projets
