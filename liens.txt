@@ -6,7 +6,11 @@ Exploring how computers work:
 
 
 Gnu-Linux
+	https://en.wikipedia.org/wiki/Unix-like
+	https://en.wikipedia.org/wiki/Linux_kernel
 	https://en.wikipedia.org/wiki/History_of_Linux
+	https://youtu.be/o8NPllzkFhE?si=wgWaq1t3nQJGzE9c
+
         https://www.gnu.org/
         https://docs.kernel.org/
 	https://gnome.org/https://guide.ubuntu-fr.org/
