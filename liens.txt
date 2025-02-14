@@ -6,6 +6,7 @@ Exploring how computers work:
 
 
 Gnu-Linux
+	https://en.wikipedia.org/wiki/History_of_Linux
         https://www.gnu.org/
         https://docs.kernel.org/
 	https://gnome.org/https://guide.ubuntu-fr.org/
@@ -106,17 +107,25 @@ Windows Linux Server
 	https://learn.microsoft.com/fr-fr/training/modules/bash-introduction
 
 
+Utils:
+	https://markdownlivepreview.com/
+	https://regex101.com/
+
+
 CS50 (Intro Computer Sciences):
 	https://www.edx.org/cs50
 	https://cs50.harvard.edu/x/2025/
 	https://cs50.harvard.edu/x/2025/psets/
         https://youtu.be/h6lqxDwUmJQ?si=pxKcU3PazvHqCaC_
 
+
 Visual Debugger:
 	https://pythontutor.com/
 
+
 Syscall table
         https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
+
 
 Dev:
 	L'IA n'existe pas (Luc Julia) https://youtu.be/yuDBSbng_8o?si=0olR7cCnEohElaeB
@@ -129,14 +138,17 @@ Dev:
 		https://fr.wikipedihttps://www.mozilla.org/fr/a.org/wiki/UML_(informatique)
 		https://en.wikipedia.org/wiki/Software_design_pattern
 
+
 Web:
 	https://www.mozilla.org/fr/
 	https://developer.mozilla.org/fr/
+
 
 3 hardest things in CS:
 	- Naming things
 	- Cache invalidation
 	- N+1 errors
+
 
 Zen of python
 Beautiful is better than ugly.
